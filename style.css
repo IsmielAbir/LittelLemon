@@ -1,0 +1,29 @@
+.cs{
+    border: 17px;
+    border-radius: 15px;
+    border-color: aqua;
+    background-color: aquamarine;
+    padding: 10px 20px;
+    color: rgb(6, 4, 1);
+    font-size: 1.3em;
+    font-weight: 400;
+
+}
+
+section{
+    margin: 15px 250px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.display{
+    
+    background-color: aquamarine;
+
+}
+.ab{
+    display: flex;
+    justify-content: space-around;
+    
+}
